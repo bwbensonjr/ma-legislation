@@ -1,0 +1,5 @@
+created_at,updated_at,extras,id,name,parent_id,jurisdiction_id,classification,sources,links,other_names
+2017-08-20 09:55:24.115402+00:00,2017-08-20 09:55:24.115420+00:00,{},ocd-organization/61a1385f-f512-4d4b-826f-3118c9a775bf,Office of the Governor,,ocd-jurisdiction/country:us/state:ma/government,executive,[],[],[]
+2017-08-20 09:55:24.123826+00:00,2017-08-20 09:55:24.123840+00:00,{},ocd-organization/9c4e7b53-9912-4394-a40a-14b5ecdb8aba,Massachusetts General Court,,ocd-jurisdiction/country:us/state:ma/government,legislature,[],[],[]
+2017-08-20 09:55:24.270661+00:00,2020-04-29 05:09:51.110953+00:00,{},ocd-organization/ca38ad9c-c3d5-4c4f-bc2f-d885218ed802,House,ocd-organization/9c4e7b53-9912-4394-a40a-14b5ecdb8aba,ocd-jurisdiction/country:us/state:ma/government,lower,[],[],[]
+2017-08-20 09:55:24.156456+00:00,2020-04-29 05:09:51.579714+00:00,{},ocd-organization/1a75ab3a-669b-43fe-ac8d-31a2d6923d9a,Senate,ocd-organization/9c4e7b53-9912-4394-a40a-14b5ecdb8aba,ocd-jurisdiction/country:us/state:ma/government,upper,[],[],[]
